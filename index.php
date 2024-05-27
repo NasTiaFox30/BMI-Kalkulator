@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div id="header"><h2>Obliczanie BMI</h2></div>
+    <header><h2>Obliczanie BMI</h2></header>
     
     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
 
