@@ -186,11 +186,11 @@
     ?>
     </script>
     
-
-</body>
-<footer>
+    <footer>
     <p>Numer albumu: 66617</p>
     <p>Copyright &#169 Anastasiia Bzova</p>
     <p>(08-16.05.2024)</p>
-</footer>
+    </footer>
+
+</body>
 </html>
